@@ -5,7 +5,7 @@
 # This file is part of Boolector.
 # See COPYING for more information on using this software.
 #
-cmake_minimum_required(VERSION 3.3)
+cmake_minimum_required(VERSION 3.5)
 
 #-----------------------------------------------------------------------------#
 
